@@ -2,6 +2,10 @@
 
 É um projeto com o objetivo de listar os dados dos artigos, com o título, imagem, resumo e data de publicação via API.
 
+## Apresentação
+
+- [Link da apresentação do projeto](https://www.loom.com/share/1a618ad4f09146e686cf6e3d60a559ac)
+
 ## Tecnologias Usadas
 
 - [Laravel 8](https://laravel.com/).
