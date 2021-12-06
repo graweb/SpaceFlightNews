@@ -9,6 +9,7 @@
 - [Laravel Dusk](https://laravel.com/docs/8.x/dusk).
 - [database ORM](https://laravel.com/docs/eloquent).
 - [MYSQL](https://www.mysql.com/).
+- [Postman](https://www.postman.com/).
 
 ## Instruções de Instalação
 
@@ -49,6 +50,10 @@ Nesse projeto, usei o Laravel Dusk para fazer os testes E2E. Criei apenas um arq
 <p>see_article</p>
 <p>edit_article</p>
 <p>delete_article</p>
+
+## Executando a API no Postman
+
+[Link da API] (https://documenter.getpostman.com/view/9738955/UVJhEaXT)
 
 ## Projeto desafio Coodesh
 
