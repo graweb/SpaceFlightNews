@@ -53,7 +53,7 @@ Nesse projeto, usei o Laravel Dusk para fazer os testes E2E. Criei apenas um arq
 
 ## Executando a API no Postman
 
-[Link da API] (https://documenter.getpostman.com/view/9738955/UVJhEaXT)
+- [Link da API](https://documenter.getpostman.com/view/9738955/UVJhEaXT)
 
 ## Projeto desafio Coodesh
 
