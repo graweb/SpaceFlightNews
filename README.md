@@ -4,12 +4,12 @@
 
 ## Tecnologias Usadas
 
-- [Laravel 8](https://laravel.com/).
-- [Livewire](https://laravel-livewire.com/).
-- [Laravel Dusk](https://laravel.com/docs/8.x/dusk).
-- [database ORM](https://laravel.com/docs/eloquent).
-- [MYSQL](https://www.mysql.com/).
-- [Postman](https://www.postman.com/).
+- [Laravel 8](https://laravel.com/){:target="_blank"}.
+- [Livewire](https://laravel-livewire.com/){:target="_blank"}.
+- [Laravel Dusk](https://laravel.com/docs/8.x/dusk){:target="_blank"}.
+- [database ORM](https://laravel.com/docs/eloquent){:target="_blank"}.
+- [MYSQL](https://www.mysql.com/){:target="_blank"}.
+- [Postman](https://www.postman.com/){:target="_blank"}.
 
 ## Instruções de Instalação
 
@@ -24,7 +24,7 @@
 #### Exemplo 1
 
 <p>1 - Execute a aplicação (php artisan serve)</p>
-<p>2 - Vá até a rota (http://127.0.0.1:8000/consumir-api) e aguarde a mensagem "Artigos armazenados com sucesso" (pode demorar um pouco, dependendo da sua conexão)</p>
+<p>2 - Vá até a rota http://127.0.0.1:8000/consumir-api e aguarde a mensagem "Artigos armazenados com sucesso" (pode demorar um pouco, dependendo da sua conexão)</p>
 
 #### Exemplo 2
 
@@ -53,12 +53,12 @@ Nesse projeto, usei o Laravel Dusk para fazer os testes E2E. Criei apenas um arq
 
 ## Executando a API no Postman
 
-[Link da API] (https://documenter.getpostman.com/view/9738955/UVJhEaXT)
+[Link da API] (https://documenter.getpostman.com/view/9738955/UVJhEaXT){:target="_blank"}
 
 ## Projeto desafio Coodesh
 
-This is a challenge by [Coodesh](https://coodesh.com/)
+This is a challenge by [Coodesh](https://coodesh.com/){:target="_blank"}
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT){:target="_blank"}.
